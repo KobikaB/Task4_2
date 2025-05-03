@@ -3,7 +3,7 @@ import Header from './Header'
 
 const Home = () => {
   return (
-    <div className='flex justify-center ' >
+    <div className='flex' >
         <Header />
     </div>
   )
